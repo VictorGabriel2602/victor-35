@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(57, 148, 209);
+    display: flex;
+    margin: 20px;
+}
+.javascript, .css{ 
+    border: 15px solid rgb(255, 255, 255);
+    margin: 20px;
+    background-color: rgb(58, 181, 219);
+    color: rgb(241, 232, 232);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.css{
+
+}
